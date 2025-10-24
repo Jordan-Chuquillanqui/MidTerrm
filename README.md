@@ -14,7 +14,7 @@ Open index.html in the browser of your choice
 ## History 
 TODO: Write history
 ## Credits
-Jordan Chuquillanqui
-David Ceron
+- Jordan Chuquillanqui
+- David Ceron
 ## License
 MIT
